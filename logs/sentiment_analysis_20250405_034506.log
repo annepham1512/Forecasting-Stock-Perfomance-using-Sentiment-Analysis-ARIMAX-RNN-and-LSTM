@@ -1,0 +1,731 @@
+2025-04-05 03:45:07,919 - INFO - Starting sentiment analysis process
+2025-04-05 03:45:07,919 - INFO - Total companies to analyze: 88
+2025-04-05 03:45:07,919 - INFO - Starting news scraping...
+2025-04-05 03:45:07,919 - INFO - Scraping news for TSLA (Tesla) 
+2025-04-05 03:45:16,161 - INFO - Found 100 articles for TSLA stock
+2025-04-05 03:45:26,955 - INFO - Found 100 articles for Tesla
+2025-04-05 03:45:29,963 - INFO - Total articles found for TSLA (Tesla) : 200
+2025-04-05 03:45:29,967 - INFO - Scraping news for TSLA (Tesla) AI
+2025-04-05 03:45:34,166 - INFO - Found 49 articles for TSLA stock AI
+2025-04-05 03:45:42,178 - INFO - Found 64 articles for Tesla AI
+2025-04-05 03:45:45,184 - INFO - Total articles found for TSLA (Tesla) AI: 113
+2025-04-05 03:45:45,186 - INFO - Scraping news for BYDDY (BYD) 
+2025-04-05 03:45:48,059 - INFO - Found 32 articles for BYDDY stock
+2025-04-05 03:45:58,790 - INFO - Found 100 articles for BYD
+2025-04-05 03:46:01,799 - INFO - Total articles found for BYDDY (BYD) : 132
+2025-04-05 03:46:01,805 - INFO - Scraping news for BYDDY (BYD) AI
+2025-04-05 03:46:02,797 - INFO - Found 6 articles for BYDDY stock AI
+2025-04-05 03:46:09,211 - INFO - Found 39 articles for BYD AI
+2025-04-05 03:46:12,217 - INFO - Total articles found for BYDDY (BYD) AI: 45
+2025-04-05 03:46:12,219 - INFO - Scraping news for LI (Li Auto) 
+2025-04-05 03:46:16,221 - INFO - Found 45 articles for LI stock
+2025-04-05 03:46:24,781 - INFO - Found 72 articles for Li Auto
+2025-04-05 03:46:27,788 - INFO - Total articles found for LI (Li Auto) : 117
+2025-04-05 03:46:27,794 - INFO - Scraping news for LI (Li Auto) AI
+2025-04-05 03:46:31,527 - INFO - Found 26 articles for LI stock AI
+2025-04-05 03:46:37,741 - INFO - Found 37 articles for Li Auto AI
+2025-04-05 03:46:40,747 - INFO - Total articles found for LI (Li Auto) AI: 63
+2025-04-05 03:46:40,749 - INFO - Scraping news for NIO (NIO) 
+2025-04-05 03:46:47,760 - INFO - Found 92 articles for NIO stock
+2025-04-05 03:46:57,997 - INFO - Found 100 articles for NIO
+2025-04-05 03:47:01,003 - INFO - Total articles found for NIO (NIO) : 192
+2025-04-05 03:47:01,012 - INFO - Scraping news for NIO (NIO) AI
+2025-04-05 03:47:03,860 - INFO - Found 33 articles for NIO stock AI
+2025-04-05 03:47:09,696 - INFO - Found 34 articles for NIO AI
+2025-04-05 03:47:12,704 - INFO - Total articles found for NIO (NIO) AI: 67
+2025-04-05 03:47:12,708 - INFO - Scraping news for RIVN (Rivian) 
+2025-04-05 03:47:16,335 - INFO - Found 44 articles for RIVN stock
+2025-04-05 03:47:26,490 - INFO - Found 100 articles for Rivian
+2025-04-05 03:47:29,498 - INFO - Total articles found for RIVN (Rivian) : 144
+2025-04-05 03:47:29,502 - INFO - Scraping news for RIVN (Rivian) AI
+2025-04-05 03:47:32,274 - INFO - Found 33 articles for RIVN stock AI
+2025-04-05 03:47:37,864 - INFO - Found 31 articles for Rivian AI
+2025-04-05 03:47:40,869 - INFO - Total articles found for RIVN (Rivian) AI: 64
+2025-04-05 03:47:40,871 - INFO - Scraping news for LCID (Lucid Motors) 
+2025-04-05 03:47:45,741 - INFO - Found 64 articles for LCID stock
+2025-04-05 03:47:52,630 - INFO - Found 49 articles for Lucid Motors
+2025-04-05 03:47:55,637 - INFO - Total articles found for LCID (Lucid Motors) : 113
+2025-04-05 03:47:55,639 - INFO - Scraping news for LCID (Lucid Motors) AI
+2025-04-05 03:47:57,491 - INFO - Found 20 articles for LCID stock AI
+2025-04-05 03:48:01,501 - INFO - Found 7 articles for Lucid Motors AI
+2025-04-05 03:48:04,507 - INFO - Total articles found for LCID (Lucid Motors) AI: 27
+2025-04-05 03:48:04,508 - INFO - Scraping news for XPEV (XPeng) 
+2025-04-05 03:48:07,167 - INFO - Found 32 articles for XPEV stock
+2025-04-05 03:48:17,101 - INFO - Found 96 articles for XPeng
+2025-04-05 03:48:20,112 - INFO - Total articles found for XPEV (XPeng) : 128
+2025-04-05 03:48:20,115 - INFO - Scraping news for XPEV (XPeng) AI
+2025-04-05 03:48:22,116 - INFO - Found 20 articles for XPEV stock AI
+2025-04-05 03:48:27,564 - INFO - Found 30 articles for XPeng AI
+2025-04-05 03:48:30,570 - INFO - Total articles found for XPEV (XPeng) AI: 50
+2025-04-05 03:48:30,571 - INFO - Scraping news for NKLA (Nikola) 
+2025-04-05 03:48:31,182 - INFO - Found 2 articles for NKLA stock
+2025-04-05 03:48:41,722 - INFO - Found 100 articles for Nikola
+2025-04-05 03:48:44,728 - INFO - Total articles found for NKLA (Nikola) : 102
+2025-04-05 03:48:44,730 - INFO - Scraping news for NKLA (Nikola) AI
+2025-04-05 03:48:45,254 - INFO - Found 1 articles for NKLA stock AI
+2025-04-05 03:48:49,462 - INFO - Found 9 articles for Nikola AI
+2025-04-05 03:48:52,469 - INFO - Total articles found for NKLA (Nikola) AI: 10
+2025-04-05 03:48:52,470 - INFO - Scraping news for PSNY (Polestar) 
+2025-04-05 03:48:53,442 - INFO - Found 6 articles for PSNY stock
+2025-04-05 03:49:01,942 - INFO - Found 72 articles for Polestar
+2025-04-05 03:49:04,948 - INFO - Total articles found for PSNY (Polestar) : 78
+2025-04-05 03:49:04,951 - INFO - Scraping news for PSNY (Polestar) AI
+2025-04-05 03:49:05,606 - INFO - Found 2 articles for PSNY stock AI
+2025-04-05 03:49:10,052 - INFO - Found 12 articles for Polestar AI
+2025-04-05 03:49:13,057 - INFO - Total articles found for PSNY (Polestar) AI: 14
+2025-04-05 03:49:13,063 - INFO - Scraping news for GM (General Motors) 
+2025-04-05 03:49:18,773 - INFO - Found 73 articles for GM stock
+2025-04-05 03:49:28,987 - INFO - Found 100 articles for General Motors
+2025-04-05 03:49:31,995 - INFO - Total articles found for GM (General Motors) : 173
+2025-04-05 03:49:31,999 - INFO - Scraping news for GM (General Motors) AI
+2025-04-05 03:49:35,616 - INFO - Found 40 articles for GM stock AI
+2025-04-05 03:49:41,544 - INFO - Found 36 articles for General Motors AI
+2025-04-05 03:49:44,550 - INFO - Total articles found for GM (General Motors) AI: 76
+2025-04-05 03:49:44,552 - INFO - Scraping news for F (Ford) 
+2025-04-05 03:49:48,943 - INFO - Found 53 articles for F stock
+2025-04-05 03:49:59,620 - INFO - Found 100 articles for Ford
+2025-04-05 03:50:02,694 - INFO - Total articles found for F (Ford) : 153
+2025-04-05 03:50:02,704 - INFO - Scraping news for F (Ford) AI
+2025-04-05 03:50:06,589 - INFO - Found 41 articles for F stock AI
+2025-04-05 03:50:13,509 - INFO - Found 50 articles for Ford AI
+2025-04-05 03:50:16,522 - INFO - Total articles found for F (Ford) AI: 91
+2025-04-05 03:50:16,525 - INFO - Scraping news for VWAGY (Volkswagen) 
+2025-04-05 03:50:18,644 - INFO - Found 17 articles for VWAGY stock
+2025-04-05 03:50:28,973 - INFO - Found 99 articles for Volkswagen
+2025-04-05 03:50:31,985 - INFO - Total articles found for VWAGY (Volkswagen) : 116
+2025-04-05 03:50:31,989 - INFO - Scraping news for VWAGY (Volkswagen) AI
+2025-04-05 03:50:32,821 - INFO - Found 2 articles for VWAGY stock AI
+2025-04-05 03:50:39,120 - INFO - Found 37 articles for Volkswagen AI
+2025-04-05 03:50:42,132 - INFO - Total articles found for VWAGY (Volkswagen) AI: 39
+2025-04-05 03:50:42,136 - INFO - Scraping news for BMW.DE (BMW) 
+2025-04-05 03:50:43,521 - INFO - Found 6 articles for BMW.DE stock
+2025-04-05 03:50:53,867 - INFO - Found 100 articles for BMW
+2025-04-05 03:50:56,878 - INFO - Total articles found for BMW.DE (BMW) : 106
+2025-04-05 03:50:56,881 - INFO - Scraping news for BMW.DE (BMW) AI
+2025-04-05 03:50:57,554 - INFO - Found 1 articles for BMW.DE stock AI
+2025-04-05 03:51:02,757 - INFO - Found 22 articles for BMW AI
+2025-04-05 03:51:05,768 - INFO - Total articles found for BMW.DE (BMW) AI: 23
+2025-04-05 03:51:05,770 - INFO - Scraping news for HYMTF (Hyundai) 
+2025-04-05 03:51:07,541 - INFO - Found 18 articles for HYMTF stock
+2025-04-05 03:51:18,021 - INFO - Found 100 articles for Hyundai
+2025-04-05 03:51:21,035 - INFO - Total articles found for HYMTF (Hyundai) : 118
+2025-04-05 03:51:21,037 - INFO - Scraping news for HYMTF (Hyundai) AI
+2025-04-05 03:51:21,902 - INFO - Found 4 articles for HYMTF stock AI
+2025-04-05 03:51:28,120 - INFO - Found 37 articles for Hyundai AI
+2025-04-05 03:51:31,130 - INFO - Total articles found for HYMTF (Hyundai) AI: 41
+2025-04-05 03:51:31,140 - INFO - Scraping news for KIMTF (Kia) 
+2025-04-05 03:51:32,055 - INFO - Found 0 articles for KIMTF stock
+2025-04-05 03:51:42,925 - INFO - Found 100 articles for Kia
+2025-04-05 03:51:45,936 - INFO - Total articles found for KIMTF (Kia) : 100
+2025-04-05 03:51:45,940 - INFO - Scraping news for KIMTF (Kia) AI
+2025-04-05 03:51:46,570 - INFO - Found 0 articles for KIMTF stock AI
+2025-04-05 03:51:51,660 - INFO - Found 20 articles for Kia AI
+2025-04-05 03:51:54,671 - INFO - Total articles found for KIMTF (Kia) AI: 20
+2025-04-05 03:51:54,672 - INFO - Scraping news for POAHY (Porsche) 
+2025-04-05 03:51:55,307 - INFO - Found 2 articles for POAHY stock
+2025-04-05 03:52:05,788 - INFO - Found 100 articles for Porsche
+2025-04-05 03:52:08,796 - INFO - Total articles found for POAHY (Porsche) : 102
+2025-04-05 03:52:08,799 - INFO - Scraping news for POAHY (Porsche) AI
+2025-04-05 03:52:09,473 - INFO - Found 1 articles for POAHY stock AI
+2025-04-05 03:52:15,190 - INFO - Found 31 articles for Porsche AI
+2025-04-05 03:52:18,201 - INFO - Total articles found for POAHY (Porsche) AI: 32
+2025-04-05 03:52:18,206 - INFO - Scraping news for MBGYY (Mercedes-Benz) 
+2025-04-05 03:52:19,232 - INFO - Found 4 articles for MBGYY stock
+2025-04-05 03:52:30,326 - INFO - Found 100 articles for Mercedes-Benz
+2025-04-05 03:52:33,337 - INFO - Total articles found for MBGYY (Mercedes-Benz) : 104
+2025-04-05 03:52:33,340 - INFO - Scraping news for MBGYY (Mercedes-Benz) AI
+2025-04-05 03:52:33,945 - INFO - Found 0 articles for MBGYY stock AI
+2025-04-05 03:52:40,485 - INFO - Found 45 articles for Mercedes-Benz AI
+2025-04-05 03:52:43,496 - INFO - Total articles found for MBGYY (Mercedes-Benz) AI: 45
+2025-04-05 03:52:43,496 - INFO - Scraping news for STLA (Stellantis) 
+2025-04-05 03:52:47,194 - INFO - Found 48 articles for STLA stock
+2025-04-05 03:52:57,434 - INFO - Found 100 articles for Stellantis
+2025-04-05 03:53:00,444 - INFO - Total articles found for STLA (Stellantis) : 148
+2025-04-05 03:53:00,446 - INFO - Scraping news for STLA (Stellantis) AI
+2025-04-05 03:53:01,608 - INFO - Found 9 articles for STLA stock AI
+2025-04-05 03:53:08,981 - INFO - Found 57 articles for Stellantis AI
+2025-04-05 03:53:11,992 - INFO - Total articles found for STLA (Stellantis) AI: 66
+2025-04-05 03:53:11,993 - INFO - Scraping news for GELYF (Geely) 
+2025-04-05 03:53:12,651 - INFO - Found 3 articles for GELYF stock
+2025-04-05 03:53:17,987 - INFO - Found 25 articles for Geely
+2025-04-05 03:53:20,994 - INFO - Total articles found for GELYF (Geely) : 28
+2025-04-05 03:53:20,996 - INFO - Scraping news for GELYF (Geely) AI
+2025-04-05 03:53:21,538 - INFO - Found 1 articles for GELYF stock AI
+2025-04-05 03:53:26,074 - INFO - Found 15 articles for Geely AI
+2025-04-05 03:53:29,085 - INFO - Total articles found for GELYF (Geely) AI: 16
+2025-04-05 03:53:29,088 - INFO - Scraping news for GWLLY (Great Wall Motors) 
+2025-04-05 03:53:29,767 - INFO - Found 0 articles for GWLLY stock
+2025-04-05 03:53:36,591 - INFO - Found 43 articles for Great Wall Motors
+2025-04-05 03:53:39,592 - INFO - Total articles found for GWLLY (Great Wall Motors) : 43
+2025-04-05 03:53:39,593 - INFO - Scraping news for GWLLY (Great Wall Motors) AI
+2025-04-05 03:53:40,176 - INFO - Found 0 articles for GWLLY stock AI
+2025-04-05 03:53:44,839 - INFO - Found 14 articles for Great Wall Motors AI
+2025-04-05 03:53:47,850 - INFO - Total articles found for GWLLY (Great Wall Motors) AI: 14
+2025-04-05 03:53:47,853 - INFO - Scraping news for SAIC (SAIC Motor) 
+2025-04-05 03:53:50,124 - INFO - Found 20 articles for SAIC stock
+2025-04-05 03:53:55,783 - INFO - Found 23 articles for SAIC Motor
+2025-04-05 03:53:58,794 - INFO - Total articles found for SAIC (SAIC Motor) : 43
+2025-04-05 03:53:58,796 - INFO - Scraping news for SAIC (SAIC Motor) AI
+2025-04-05 03:53:59,679 - INFO - Found 2 articles for SAIC stock AI
+2025-04-05 03:54:03,630 - INFO - Found 5 articles for SAIC Motor AI
+2025-04-05 03:54:06,634 - INFO - Total articles found for SAIC (SAIC Motor) AI: 7
+2025-04-05 03:54:06,636 - INFO - Scraping news for HYLN (Hyliion) 
+2025-04-05 03:54:08,188 - INFO - Found 7 articles for HYLN stock
+2025-04-05 03:54:12,094 - INFO - Found 6 articles for Hyliion
+2025-04-05 03:54:15,105 - INFO - Total articles found for HYLN (Hyliion) : 13
+2025-04-05 03:54:15,105 - INFO - Scraping news for HYLN (Hyliion) AI
+2025-04-05 03:54:15,786 - INFO - Found 2 articles for HYLN stock AI
+2025-04-05 03:54:19,499 - INFO - Found 2 articles for Hyliion AI
+2025-04-05 03:54:22,511 - INFO - Total articles found for HYLN (Hyliion) AI: 4
+2025-04-05 03:54:22,513 - INFO - Scraping news for GNZUF (Ganfeng Lithium) 
+2025-04-05 03:54:23,135 - INFO - Found 0 articles for GNZUF stock
+2025-04-05 03:54:27,475 - INFO - Found 10 articles for Ganfeng Lithium
+2025-04-05 03:54:30,486 - INFO - Total articles found for GNZUF (Ganfeng Lithium) : 10
+2025-04-05 03:54:30,488 - INFO - Scraping news for GNZUF (Ganfeng Lithium) AI
+2025-04-05 03:54:31,138 - INFO - Found 0 articles for GNZUF stock AI
+2025-04-05 03:54:34,796 - INFO - Found 0 articles for Ganfeng Lithium AI
+2025-04-05 03:54:37,807 - INFO - Total articles found for GNZUF (Ganfeng Lithium) AI: 0
+2025-04-05 03:54:37,808 - INFO - Scraping news for TATAMOTORS.NS (Tata Motors) 
+2025-04-05 03:54:38,553 - INFO - Found 0 articles for TATAMOTORS.NS stock
+2025-04-05 03:54:49,262 - INFO - Found 100 articles for Tata Motors
+2025-04-05 03:54:52,274 - INFO - Total articles found for TATAMOTORS.NS (Tata Motors) : 100
+2025-04-05 03:54:52,279 - INFO - Scraping news for TATAMOTORS.NS (Tata Motors) AI
+2025-04-05 03:54:52,903 - INFO - Found 0 articles for TATAMOTORS.NS stock AI
+2025-04-05 03:55:01,201 - INFO - Found 60 articles for Tata Motors AI
+2025-04-05 03:55:04,214 - INFO - Total articles found for TATAMOTORS.NS (Tata Motors) AI: 60
+2025-04-05 03:55:04,231 - INFO - Scraping news for MAHMF (Mahindra) 
+2025-04-05 03:55:04,863 - INFO - Found 0 articles for MAHMF stock
+2025-04-05 03:55:15,457 - INFO - Found 100 articles for Mahindra
+2025-04-05 03:55:18,468 - INFO - Total articles found for MAHMF (Mahindra) : 100
+2025-04-05 03:55:18,472 - INFO - Scraping news for MAHMF (Mahindra) AI
+2025-04-05 03:55:19,106 - INFO - Found 0 articles for MAHMF stock AI
+2025-04-05 03:55:25,122 - INFO - Found 34 articles for Mahindra AI
+2025-04-05 03:55:28,133 - INFO - Total articles found for MAHMF (Mahindra) AI: 34
+2025-04-05 03:55:28,134 - INFO - Scraping news for RNLSY (Renault) 
+2025-04-05 03:55:28,805 - INFO - Found 3 articles for RNLSY stock
+2025-04-05 03:55:38,841 - INFO - Found 100 articles for Renault
+2025-04-05 03:55:41,853 - INFO - Total articles found for RNLSY (Renault) : 103
+2025-04-05 03:55:41,860 - INFO - Scraping news for RNLSY (Renault) AI
+2025-04-05 03:55:42,445 - INFO - Found 1 articles for RNLSY stock AI
+2025-04-05 03:55:47,392 - INFO - Found 21 articles for Renault AI
+2025-04-05 03:55:50,402 - INFO - Total articles found for RNLSY (Renault) AI: 22
+2025-04-05 03:55:50,404 - INFO - Scraping news for NSANY (Nissan) 
+2025-04-05 03:55:51,420 - INFO - Found 7 articles for NSANY stock
+2025-04-05 03:56:01,954 - INFO - Found 100 articles for Nissan
+2025-04-05 03:56:04,966 - INFO - Total articles found for NSANY (Nissan) : 107
+2025-04-05 03:56:04,970 - INFO - Scraping news for NSANY (Nissan) AI
+2025-04-05 03:56:05,622 - INFO - Found 0 articles for NSANY stock AI
+2025-04-05 03:56:11,162 - INFO - Found 24 articles for Nissan AI
+2025-04-05 03:56:14,172 - INFO - Total articles found for NSANY (Nissan) AI: 24
+2025-04-05 03:56:14,174 - INFO - Scraping news for 7211.T (Mitsubishi Motors) 
+2025-04-05 03:56:14,927 - INFO - Found 0 articles for 7211.T stock
+2025-04-05 03:56:20,730 - INFO - Found 33 articles for Mitsubishi Motors
+2025-04-05 03:56:23,742 - INFO - Total articles found for 7211.T (Mitsubishi Motors) : 33
+2025-04-05 03:56:23,746 - INFO - Scraping news for 7211.T (Mitsubishi Motors) AI
+2025-04-05 03:56:24,397 - INFO - Found 0 articles for 7211.T stock AI
+2025-04-05 03:56:28,578 - INFO - Found 8 articles for Mitsubishi Motors AI
+2025-04-05 03:56:31,583 - INFO - Total articles found for 7211.T (Mitsubishi Motors) AI: 8
+2025-04-05 03:56:31,587 - INFO - Scraping news for JPM (JPMorgan Chase) 
+2025-04-05 03:56:36,154 - INFO - Found 61 articles for JPM stock
+2025-04-05 03:56:45,790 - INFO - Found 100 articles for JPMorgan Chase
+2025-04-05 03:56:48,800 - INFO - Total articles found for JPM (JPMorgan Chase) : 161
+2025-04-05 03:56:48,803 - INFO - Scraping news for JPM (JPMorgan Chase) AI
+2025-04-05 03:56:51,889 - INFO - Found 37 articles for JPM stock AI
+2025-04-05 03:56:58,084 - INFO - Found 40 articles for JPMorgan Chase AI
+2025-04-05 03:57:01,095 - INFO - Total articles found for JPM (JPMorgan Chase) AI: 77
+2025-04-05 03:57:01,097 - INFO - Scraping news for BAC (Bank of America) 
+2025-04-05 03:57:04,160 - INFO - Found 39 articles for BAC stock
+2025-04-05 03:57:14,389 - INFO - Found 100 articles for Bank of America
+2025-04-05 03:57:17,417 - INFO - Total articles found for BAC (Bank of America) : 139
+2025-04-05 03:57:17,421 - INFO - Scraping news for BAC (Bank of America) AI
+2025-04-05 03:57:20,579 - INFO - Found 31 articles for BAC stock AI
+2025-04-05 03:57:27,366 - INFO - Found 50 articles for Bank of America AI
+2025-04-05 03:57:30,371 - INFO - Total articles found for BAC (Bank of America) AI: 81
+2025-04-05 03:57:30,377 - INFO - Scraping news for WFC (Wells Fargo) 
+2025-04-05 03:57:34,768 - INFO - Found 57 articles for WFC stock
+2025-04-05 03:57:44,745 - INFO - Found 100 articles for Wells Fargo
+2025-04-05 03:57:47,758 - INFO - Total articles found for WFC (Wells Fargo) : 157
+2025-04-05 03:57:47,763 - INFO - Scraping news for WFC (Wells Fargo) AI
+2025-04-05 03:57:51,719 - INFO - Found 50 articles for WFC stock AI
+2025-04-05 03:57:57,901 - INFO - Found 39 articles for Wells Fargo AI
+2025-04-05 03:58:00,911 - INFO - Total articles found for WFC (Wells Fargo) AI: 89
+2025-04-05 03:58:00,913 - INFO - Scraping news for C (Citigroup) 
+2025-04-05 03:58:04,426 - INFO - Found 43 articles for C stock
+2025-04-05 03:58:14,315 - INFO - Found 100 articles for Citigroup
+2025-04-05 03:58:17,327 - INFO - Total articles found for C (Citigroup) : 143
+2025-04-05 03:58:17,335 - INFO - Scraping news for C (Citigroup) AI
+2025-04-05 03:58:20,931 - INFO - Found 43 articles for C stock AI
+2025-04-05 03:58:27,331 - INFO - Found 44 articles for Citigroup AI
+2025-04-05 03:58:30,343 - INFO - Total articles found for C (Citigroup) AI: 87
+2025-04-05 03:58:30,343 - INFO - Scraping news for GS (Goldman Sachs) 
+2025-04-05 03:58:34,817 - INFO - Found 57 articles for GS stock
+2025-04-05 03:58:44,789 - INFO - Found 100 articles for Goldman Sachs
+2025-04-05 03:58:47,802 - INFO - Total articles found for GS (Goldman Sachs) : 157
+2025-04-05 03:58:47,805 - INFO - Scraping news for GS (Goldman Sachs) AI
+2025-04-05 03:58:51,028 - INFO - Found 42 articles for GS stock AI
+2025-04-05 03:58:57,552 - INFO - Found 45 articles for Goldman Sachs AI
+2025-04-05 03:59:00,563 - INFO - Total articles found for GS (Goldman Sachs) AI: 87
+2025-04-05 03:59:00,567 - INFO - Scraping news for MS (Morgan Stanley) 
+2025-04-05 03:59:04,541 - INFO - Found 50 articles for MS stock
+2025-04-05 03:59:14,414 - INFO - Found 100 articles for Morgan Stanley
+2025-04-05 03:59:17,425 - INFO - Total articles found for MS (Morgan Stanley) : 150
+2025-04-05 03:59:17,429 - INFO - Scraping news for MS (Morgan Stanley) AI
+2025-04-05 03:59:20,164 - INFO - Found 31 articles for MS stock AI
+2025-04-05 03:59:25,579 - INFO - Found 25 articles for Morgan Stanley AI
+2025-04-05 03:59:28,590 - INFO - Total articles found for MS (Morgan Stanley) AI: 56
+2025-04-05 03:59:28,593 - INFO - Scraping news for USB (U.S. Bancorp) 
+2025-04-05 03:59:32,939 - INFO - Found 53 articles for USB stock
+2025-04-05 03:59:42,900 - INFO - Found 100 articles for U.S. Bancorp
+2025-04-05 03:59:45,912 - INFO - Total articles found for USB (U.S. Bancorp) : 153
+2025-04-05 03:59:45,916 - INFO - Scraping news for USB (U.S. Bancorp) AI
+2025-04-05 03:59:48,019 - INFO - Found 22 articles for USB stock AI
+2025-04-05 03:59:53,907 - INFO - Found 36 articles for U.S. Bancorp AI
+2025-04-05 03:59:56,917 - INFO - Total articles found for USB (U.S. Bancorp) AI: 58
+2025-04-05 03:59:56,919 - INFO - Scraping news for PNC (PNC Financial) 
+2025-04-05 03:59:59,972 - INFO - Found 37 articles for PNC stock
+2025-04-05 04:00:09,304 - INFO - Found 87 articles for PNC Financial
+2025-04-05 04:00:12,315 - INFO - Total articles found for PNC (PNC Financial) : 124
+2025-04-05 04:00:12,318 - INFO - Scraping news for PNC (PNC Financial) AI
+2025-04-05 04:00:13,704 - INFO - Found 12 articles for PNC stock AI
+2025-04-05 04:00:18,059 - INFO - Found 12 articles for PNC Financial AI
+2025-04-05 04:00:21,071 - INFO - Total articles found for PNC (PNC Financial) AI: 24
+2025-04-05 04:00:21,074 - INFO - Scraping news for TFC (Truist Financial) 
+2025-04-05 04:00:24,857 - INFO - Found 47 articles for TFC stock
+2025-04-05 04:00:35,079 - INFO - Found 100 articles for Truist Financial
+2025-04-05 04:00:38,091 - INFO - Total articles found for TFC (Truist Financial) : 147
+2025-04-05 04:00:38,096 - INFO - Scraping news for TFC (Truist Financial) AI
+2025-04-05 04:00:39,220 - INFO - Found 10 articles for TFC stock AI
+2025-04-05 04:00:45,690 - INFO - Found 45 articles for Truist Financial AI
+2025-04-05 04:00:48,701 - INFO - Total articles found for TFC (Truist Financial) AI: 55
+2025-04-05 04:00:48,702 - INFO - Scraping news for COF (Capital One) 
+2025-04-05 04:00:51,961 - INFO - Found 41 articles for COF stock
+2025-04-05 04:01:01,942 - INFO - Found 100 articles for Capital One
+2025-04-05 04:01:04,953 - INFO - Total articles found for COF (Capital One) : 141
+2025-04-05 04:01:04,957 - INFO - Scraping news for COF (Capital One) AI
+2025-04-05 04:01:06,847 - INFO - Found 19 articles for COF stock AI
+2025-04-05 04:01:13,791 - INFO - Found 52 articles for Capital One AI
+2025-04-05 04:01:16,798 - INFO - Total articles found for COF (Capital One) AI: 71
+2025-04-05 04:01:16,799 - INFO - Scraping news for TD (TD Bank) 
+2025-04-05 04:01:23,930 - INFO - Found 100 articles for TD stock
+2025-04-05 04:01:30,523 - INFO - Found 49 articles for TD Bank
+2025-04-05 04:01:33,540 - INFO - Total articles found for TD (TD Bank) : 149
+2025-04-05 04:01:33,542 - INFO - Scraping news for TD (TD Bank) AI
+2025-04-05 04:01:36,819 - INFO - Found 40 articles for TD stock AI
+2025-04-05 04:01:42,724 - INFO - Found 35 articles for TD Bank AI
+2025-04-05 04:01:45,735 - INFO - Total articles found for TD (TD Bank) AI: 75
+2025-04-05 04:01:45,738 - INFO - Scraping news for SCHW (Charles Schwab) 
+2025-04-05 04:01:50,007 - INFO - Found 44 articles for SCHW stock
+2025-04-05 04:02:00,839 - INFO - Found 100 articles for Charles Schwab
+2025-04-05 04:02:03,846 - INFO - Total articles found for SCHW (Charles Schwab) : 144
+2025-04-05 04:02:03,848 - INFO - Scraping news for SCHW (Charles Schwab) AI
+2025-04-05 04:02:06,191 - INFO - Found 21 articles for SCHW stock AI
+2025-04-05 04:02:13,619 - INFO - Found 57 articles for Charles Schwab AI
+2025-04-05 04:02:16,629 - INFO - Total articles found for SCHW (Charles Schwab) AI: 78
+2025-04-05 04:02:16,632 - INFO - Scraping news for BK (Bank of New York Mellon) 
+2025-04-05 04:02:21,094 - INFO - Found 54 articles for BK stock
+2025-04-05 04:02:31,079 - INFO - Found 93 articles for Bank of New York Mellon
+2025-04-05 04:02:34,086 - INFO - Total articles found for BK (Bank of New York Mellon) : 147
+2025-04-05 04:02:34,090 - INFO - Scraping news for BK (Bank of New York Mellon) AI
+2025-04-05 04:02:38,572 - INFO - Found 54 articles for BK stock AI
+2025-04-05 04:02:45,422 - INFO - Found 45 articles for Bank of New York Mellon AI
+2025-04-05 04:02:48,428 - INFO - Total articles found for BK (Bank of New York Mellon) AI: 99
+2025-04-05 04:02:48,434 - INFO - Scraping news for STT (State Street) 
+2025-04-05 04:02:52,510 - INFO - Found 50 articles for STT stock
+2025-04-05 04:03:03,104 - INFO - Found 100 articles for State Street
+2025-04-05 04:03:06,111 - INFO - Total articles found for STT (State Street) : 150
+2025-04-05 04:03:06,116 - INFO - Scraping news for STT (State Street) AI
+2025-04-05 04:03:07,555 - INFO - Found 12 articles for STT stock AI
+2025-04-05 04:03:15,305 - INFO - Found 47 articles for State Street AI
+2025-04-05 04:03:18,316 - INFO - Total articles found for STT (State Street) AI: 59
+2025-04-05 04:03:18,322 - INFO - Scraping news for AXP (American Express) 
+2025-04-05 04:03:22,340 - INFO - Found 44 articles for AXP stock
+2025-04-05 04:03:32,773 - INFO - Found 100 articles for American Express
+2025-04-05 04:03:35,778 - INFO - Total articles found for AXP (American Express) : 144
+2025-04-05 04:03:35,783 - INFO - Scraping news for AXP (American Express) AI
+2025-04-05 04:03:39,358 - INFO - Found 37 articles for AXP stock AI
+2025-04-05 04:03:46,699 - INFO - Found 57 articles for American Express AI
+2025-04-05 04:03:49,707 - INFO - Total articles found for AXP (American Express) AI: 94
+2025-04-05 04:03:49,712 - INFO - Scraping news for HSBC (HSBC Holdings) 
+2025-04-05 04:03:55,555 - INFO - Found 78 articles for HSBC stock
+2025-04-05 04:04:01,860 - INFO - Found 41 articles for HSBC Holdings
+2025-04-05 04:04:04,867 - INFO - Total articles found for HSBC (HSBC Holdings) : 119
+2025-04-05 04:04:04,879 - INFO - Scraping news for HSBC (HSBC Holdings) AI
+2025-04-05 04:04:07,418 - INFO - Found 30 articles for HSBC stock AI
+2025-04-05 04:04:12,923 - INFO - Found 29 articles for HSBC Holdings AI
+2025-04-05 04:04:15,931 - INFO - Total articles found for HSBC (HSBC Holdings) AI: 59
+2025-04-05 04:04:15,939 - INFO - Scraping news for CFG (Citizens Financial) 
+2025-04-05 04:04:19,444 - INFO - Found 40 articles for CFG stock
+2025-04-05 04:04:27,551 - INFO - Found 69 articles for Citizens Financial
+2025-04-05 04:04:30,553 - INFO - Total articles found for CFG (Citizens Financial) : 109
+2025-04-05 04:04:30,554 - INFO - Scraping news for CFG (Citizens Financial) AI
+2025-04-05 04:04:31,629 - INFO - Found 7 articles for CFG stock AI
+2025-04-05 04:04:38,672 - INFO - Found 50 articles for Citizens Financial AI
+2025-04-05 04:04:41,677 - INFO - Total articles found for CFG (Citizens Financial) AI: 57
+2025-04-05 04:04:41,679 - INFO - Scraping news for FITB (Fifth Third Bank) 
+2025-04-05 04:04:43,232 - INFO - Found 15 articles for FITB stock
+2025-04-05 04:04:50,293 - INFO - Found 52 articles for Fifth Third Bank
+2025-04-05 04:04:53,299 - INFO - Total articles found for FITB (Fifth Third Bank) : 67
+2025-04-05 04:04:53,303 - INFO - Scraping news for FITB (Fifth Third Bank) AI
+2025-04-05 04:04:54,177 - INFO - Found 6 articles for FITB stock AI
+2025-04-05 04:04:58,727 - INFO - Found 14 articles for Fifth Third Bank AI
+2025-04-05 04:05:01,733 - INFO - Total articles found for FITB (Fifth Third Bank) AI: 20
+2025-04-05 04:05:01,740 - INFO - Scraping news for MTB (M&T Bank) 
+2025-04-05 04:05:04,914 - INFO - Found 37 articles for MTB stock
+2025-04-05 04:05:11,622 - INFO - Found 49 articles for M&T Bank
+2025-04-05 04:05:14,629 - INFO - Total articles found for MTB (M&T Bank) : 86
+2025-04-05 04:05:14,642 - INFO - Scraping news for MTB (M&T Bank) AI
+2025-04-05 04:05:15,214 - INFO - Found 1 articles for MTB stock AI
+2025-04-05 04:05:19,081 - INFO - Found 4 articles for M&T Bank AI
+2025-04-05 04:05:22,089 - INFO - Total articles found for MTB (M&T Bank) AI: 5
+2025-04-05 04:05:22,091 - INFO - Scraping news for HBAN (Huntington Bancshares) 
+2025-04-05 04:05:23,191 - INFO - Found 8 articles for HBAN stock
+2025-04-05 04:05:29,469 - INFO - Found 43 articles for Huntington Bancshares
+2025-04-05 04:05:32,475 - INFO - Total articles found for HBAN (Huntington Bancshares) : 51
+2025-04-05 04:05:32,476 - INFO - Scraping news for HBAN (Huntington Bancshares) AI
+2025-04-05 04:05:32,960 - INFO - Found 1 articles for HBAN stock AI
+2025-04-05 04:05:36,836 - INFO - Found 2 articles for Huntington Bancshares AI
+2025-04-05 04:05:39,843 - INFO - Total articles found for HBAN (Huntington Bancshares) AI: 3
+2025-04-05 04:05:39,845 - INFO - Scraping news for ALLY (Ally Financial) 
+2025-04-05 04:05:43,812 - INFO - Found 47 articles for ALLY stock
+2025-04-05 04:05:50,387 - INFO - Found 44 articles for Ally Financial
+2025-04-05 04:05:53,392 - INFO - Total articles found for ALLY (Ally Financial) : 91
+2025-04-05 04:05:53,395 - INFO - Scraping news for ALLY (Ally Financial) AI
+2025-04-05 04:05:55,080 - INFO - Found 17 articles for ALLY stock AI
+2025-04-05 04:05:59,631 - INFO - Found 15 articles for Ally Financial AI
+2025-04-05 04:06:02,636 - INFO - Total articles found for ALLY (Ally Financial) AI: 32
+2025-04-05 04:06:02,638 - INFO - Scraping news for KEY (KeyCorp) 
+2025-04-05 04:06:08,469 - INFO - Found 75 articles for KEY stock
+2025-04-05 04:06:14,818 - INFO - Found 43 articles for KeyCorp
+2025-04-05 04:06:17,825 - INFO - Total articles found for KEY (KeyCorp) : 118
+2025-04-05 04:06:17,826 - INFO - Scraping news for KEY (KeyCorp) AI
+2025-04-05 04:06:21,789 - INFO - Found 47 articles for KEY stock AI
+2025-04-05 04:06:25,467 - INFO - Found 2 articles for KeyCorp AI
+2025-04-05 04:06:28,472 - INFO - Total articles found for KEY (KeyCorp) AI: 49
+2025-04-05 04:06:28,474 - INFO - Scraping news for RY (Royal Bank of Canada) 
+2025-04-05 04:06:32,158 - INFO - Found 46 articles for RY stock
+2025-04-05 04:06:42,622 - INFO - Found 100 articles for Royal Bank of Canada
+2025-04-05 04:06:45,629 - INFO - Total articles found for RY (Royal Bank of Canada) : 146
+2025-04-05 04:06:45,633 - INFO - Scraping news for RY (Royal Bank of Canada) AI
+2025-04-05 04:06:48,581 - INFO - Found 35 articles for RY stock AI
+2025-04-05 04:06:55,985 - INFO - Found 57 articles for Royal Bank of Canada AI
+2025-04-05 04:06:58,990 - INFO - Total articles found for RY (Royal Bank of Canada) AI: 92
+2025-04-05 04:06:58,992 - INFO - Scraping news for SAN (Santander) 
+2025-04-05 04:07:02,805 - INFO - Found 46 articles for SAN stock
+2025-04-05 04:07:12,744 - INFO - Found 100 articles for Santander
+2025-04-05 04:07:15,756 - INFO - Total articles found for SAN (Santander) : 146
+2025-04-05 04:07:15,761 - INFO - Scraping news for SAN (Santander) AI
+2025-04-05 04:07:19,352 - INFO - Found 42 articles for SAN stock AI
+2025-04-05 04:07:24,268 - INFO - Found 20 articles for Santander AI
+2025-04-05 04:07:27,279 - INFO - Total articles found for SAN (Santander) AI: 62
+2025-04-05 04:07:27,281 - INFO - Scraping news for NTRS (Northern Trust) 
+2025-04-05 04:07:29,091 - INFO - Found 19 articles for NTRS stock
+2025-04-05 04:07:37,157 - INFO - Found 66 articles for Northern Trust
+2025-04-05 04:07:40,169 - INFO - Total articles found for NTRS (Northern Trust) : 85
+2025-04-05 04:07:40,177 - INFO - Scraping news for NTRS (Northern Trust) AI
+2025-04-05 04:07:41,405 - INFO - Found 10 articles for NTRS stock AI
+2025-04-05 04:07:47,997 - INFO - Found 39 articles for Northern Trust AI
+2025-04-05 04:07:51,004 - INFO - Total articles found for NTRS (Northern Trust) AI: 49
+2025-04-05 04:07:51,008 - INFO - Scraping news for RF (Regions Financial) 
+2025-04-05 04:07:55,358 - INFO - Found 58 articles for RF stock
+2025-04-05 04:08:01,915 - INFO - Found 45 articles for Regions Financial
+2025-04-05 04:08:04,921 - INFO - Total articles found for RF (Regions Financial) : 103
+2025-04-05 04:08:04,923 - INFO - Scraping news for RF (Regions Financial) AI
+2025-04-05 04:08:07,151 - INFO - Found 25 articles for RF stock AI
+2025-04-05 04:08:14,051 - INFO - Found 50 articles for Regions Financial AI
+2025-04-05 04:08:17,058 - INFO - Total articles found for RF (Regions Financial) AI: 75
+2025-04-05 04:08:17,062 - INFO - Scraping news for SYF (Synchrony Financial) 
+2025-04-05 04:08:18,928 - INFO - Found 18 articles for SYF stock
+2025-04-05 04:08:25,765 - INFO - Found 50 articles for Synchrony Financial
+2025-04-05 04:08:28,772 - INFO - Total articles found for SYF (Synchrony Financial) : 68
+2025-04-05 04:08:28,773 - INFO - Scraping news for SYF (Synchrony Financial) AI
+2025-04-05 04:08:29,480 - INFO - Found 3 articles for SYF stock AI
+2025-04-05 04:08:33,717 - INFO - Found 11 articles for Synchrony Financial AI
+2025-04-05 04:08:36,724 - INFO - Total articles found for SYF (Synchrony Financial) AI: 14
+2025-04-05 04:08:36,731 - INFO - Scraping news for NBHC (National Bank Holdings) 
+2025-04-05 04:08:38,061 - INFO - Found 9 articles for NBHC stock
+2025-04-05 04:08:48,277 - INFO - Found 100 articles for National Bank Holdings
+2025-04-05 04:08:51,283 - INFO - Total articles found for NBHC (National Bank Holdings) : 109
+2025-04-05 04:08:51,294 - INFO - Scraping news for NBHC (National Bank Holdings) AI
+2025-04-05 04:08:51,918 - INFO - Found 2 articles for NBHC stock AI
+2025-04-05 04:08:57,127 - INFO - Found 25 articles for National Bank Holdings AI
+2025-04-05 04:09:00,132 - INFO - Total articles found for NBHC (National Bank Holdings) AI: 27
+2025-04-05 04:09:00,135 - INFO - Scraping news for ZION (Zions Bancorporation) 
+2025-04-05 04:09:04,586 - INFO - Found 54 articles for ZION stock
+2025-04-05 04:09:14,036 - INFO - Found 87 articles for Zions Bancorporation
+2025-04-05 04:09:17,042 - INFO - Total articles found for ZION (Zions Bancorporation) : 141
+2025-04-05 04:09:17,046 - INFO - Scraping news for ZION (Zions Bancorporation) AI
+2025-04-05 04:09:17,749 - INFO - Found 1 articles for ZION stock AI
+2025-04-05 04:09:21,496 - INFO - Found 4 articles for Zions Bancorporation AI
+2025-04-05 04:09:24,503 - INFO - Total articles found for ZION (Zions Bancorporation) AI: 5
+2025-04-05 04:09:24,504 - INFO - Scraping news for FHN (First Horizon) 
+2025-04-05 04:09:26,346 - INFO - Found 19 articles for FHN stock
+2025-04-05 04:09:33,045 - INFO - Found 48 articles for First Horizon
+2025-04-05 04:09:36,051 - INFO - Total articles found for FHN (First Horizon) : 67
+2025-04-05 04:09:36,070 - INFO - Scraping news for FHN (First Horizon) AI
+2025-04-05 04:09:36,951 - INFO - Found 5 articles for FHN stock AI
+2025-04-05 04:09:41,931 - INFO - Found 21 articles for First Horizon AI
+2025-04-05 04:09:44,937 - INFO - Total articles found for FHN (First Horizon) AI: 26
+2025-04-05 04:09:44,939 - INFO - Scraping news for AAPL (Apple) 
+2025-04-05 04:09:52,614 - INFO - Found 100 articles for AAPL stock
+2025-04-05 04:10:02,848 - INFO - Found 100 articles for Apple
+2025-04-05 04:10:05,855 - INFO - Total articles found for AAPL (Apple) : 200
+2025-04-05 04:10:05,861 - INFO - Scraping news for AAPL (Apple) AI
+2025-04-05 04:10:08,714 - INFO - Found 33 articles for AAPL stock AI
+2025-04-05 04:10:18,964 - INFO - Found 100 articles for Apple AI
+2025-04-05 04:10:21,971 - INFO - Total articles found for AAPL (Apple) AI: 133
+2025-04-05 04:10:21,974 - INFO - Scraping news for MSFT (Microsoft) 
+2025-04-05 04:10:29,399 - INFO - Found 100 articles for MSFT stock
+2025-04-05 04:10:39,608 - INFO - Found 100 articles for Microsoft
+2025-04-05 04:10:42,615 - INFO - Total articles found for MSFT (Microsoft) : 200
+2025-04-05 04:10:42,618 - INFO - Scraping news for MSFT (Microsoft) AI
+2025-04-05 04:10:45,463 - INFO - Found 32 articles for MSFT stock AI
+2025-04-05 04:10:55,803 - INFO - Found 100 articles for Microsoft AI
+2025-04-05 04:10:58,810 - INFO - Total articles found for MSFT (Microsoft) AI: 132
+2025-04-05 04:10:58,813 - INFO - Scraping news for GOOGL (Google) 
+2025-04-05 04:11:06,280 - INFO - Found 100 articles for GOOGL stock
+2025-04-05 04:11:16,304 - INFO - Found 100 articles for Google
+2025-04-05 04:11:19,311 - INFO - Total articles found for GOOGL (Google) : 200
+2025-04-05 04:11:19,316 - INFO - Scraping news for GOOGL (Google) AI
+2025-04-05 04:11:22,541 - INFO - Found 39 articles for GOOGL stock AI
+2025-04-05 04:11:32,642 - INFO - Found 100 articles for Google AI
+2025-04-05 04:11:35,648 - INFO - Total articles found for GOOGL (Google) AI: 139
+2025-04-05 04:11:35,651 - INFO - Scraping news for GOOG (Google) 
+2025-04-05 04:11:38,494 - INFO - Found 34 articles for GOOG stock
+2025-04-05 04:11:47,869 - INFO - Found 100 articles for Google
+2025-04-05 04:11:50,876 - INFO - Total articles found for GOOG (Google) : 134
+2025-04-05 04:11:50,879 - INFO - Scraping news for GOOG (Google) AI
+2025-04-05 04:11:54,264 - INFO - Found 41 articles for GOOG stock AI
+2025-04-05 04:12:03,845 - INFO - Found 100 articles for Google AI
+2025-04-05 04:12:06,851 - INFO - Total articles found for GOOG (Google) AI: 141
+2025-04-05 04:12:06,856 - INFO - Scraping news for AMZN (Amazon) 
+2025-04-05 04:12:14,122 - INFO - Found 100 articles for AMZN stock
+2025-04-05 04:12:24,328 - INFO - Found 100 articles for Amazon
+2025-04-05 04:12:27,335 - INFO - Total articles found for AMZN (Amazon) : 200
+2025-04-05 04:12:27,340 - INFO - Scraping news for AMZN (Amazon) AI
+2025-04-05 04:12:30,453 - INFO - Found 35 articles for AMZN stock AI
+2025-04-05 04:12:40,681 - INFO - Found 100 articles for Amazon AI
+2025-04-05 04:12:43,686 - INFO - Total articles found for AMZN (Amazon) AI: 135
+2025-04-05 04:12:43,698 - INFO - Scraping news for META (Meta) 
+2025-04-05 04:12:51,258 - INFO - Found 100 articles for META stock
+2025-04-05 04:13:01,495 - INFO - Found 100 articles for Meta
+2025-04-05 04:13:04,501 - INFO - Total articles found for META (Meta) : 200
+2025-04-05 04:13:04,504 - INFO - Scraping news for META (Meta) AI
+2025-04-05 04:13:06,765 - INFO - Found 24 articles for META stock AI
+2025-04-05 04:13:16,955 - INFO - Found 100 articles for Meta AI
+2025-04-05 04:13:19,962 - INFO - Total articles found for META (Meta) AI: 124
+2025-04-05 04:13:19,968 - INFO - Scraping news for NVDA (NVIDIA) 
+2025-04-05 04:13:27,351 - INFO - Found 100 articles for NVDA stock
+2025-04-05 04:13:37,680 - INFO - Found 100 articles for NVIDIA
+2025-04-05 04:13:40,691 - INFO - Total articles found for NVDA (NVIDIA) : 200
+2025-04-05 04:13:40,704 - INFO - Scraping news for NVDA (NVIDIA) AI
+2025-04-05 04:13:47,753 - INFO - Found 100 articles for NVDA stock AI
+2025-04-05 04:13:58,131 - INFO - Found 100 articles for NVIDIA AI
+2025-04-05 04:14:01,142 - INFO - Total articles found for NVDA (NVIDIA) AI: 200
+2025-04-05 04:14:01,145 - INFO - Scraping news for TSM (Taiwan Semiconductor) 
+2025-04-05 04:14:05,008 - INFO - Found 48 articles for TSM stock
+2025-04-05 04:14:15,276 - INFO - Found 100 articles for Taiwan Semiconductor
+2025-04-05 04:14:18,287 - INFO - Total articles found for TSM (Taiwan Semiconductor) : 148
+2025-04-05 04:14:18,292 - INFO - Scraping news for TSM (Taiwan Semiconductor) AI
+2025-04-05 04:14:21,560 - INFO - Found 40 articles for TSM stock AI
+2025-04-05 04:14:27,375 - INFO - Found 34 articles for Taiwan Semiconductor AI
+2025-04-05 04:14:30,388 - INFO - Total articles found for TSM (Taiwan Semiconductor) AI: 74
+2025-04-05 04:14:30,392 - INFO - Scraping news for ADBE (Adobe) 
+2025-04-05 04:14:33,242 - INFO - Found 35 articles for ADBE stock
+2025-04-05 04:14:43,614 - INFO - Found 100 articles for Adobe
+2025-04-05 04:14:46,626 - INFO - Total articles found for ADBE (Adobe) : 135
+2025-04-05 04:14:46,632 - INFO - Scraping news for ADBE (Adobe) AI
+2025-04-05 04:14:49,299 - INFO - Found 30 articles for ADBE stock AI
+2025-04-05 04:14:58,409 - INFO - Found 85 articles for Adobe AI
+2025-04-05 04:15:01,421 - INFO - Total articles found for ADBE (Adobe) AI: 115
+2025-04-05 04:15:01,430 - INFO - Scraping news for INTC (Intel) 
+2025-04-05 04:15:08,565 - INFO - Found 100 articles for INTC stock
+2025-04-05 04:15:18,761 - INFO - Found 100 articles for Intel
+2025-04-05 04:15:21,773 - INFO - Total articles found for INTC (Intel) : 200
+2025-04-05 04:15:21,777 - INFO - Scraping news for INTC (Intel) AI
+2025-04-05 04:15:24,984 - INFO - Found 38 articles for INTC stock AI
+2025-04-05 04:15:34,123 - INFO - Found 84 articles for Intel AI
+2025-04-05 04:15:37,135 - INFO - Total articles found for INTC (Intel) AI: 122
+2025-04-05 04:15:37,141 - INFO - Scraping news for CSCO (Cisco) 
+2025-04-05 04:15:39,582 - INFO - Found 28 articles for CSCO stock
+2025-04-05 04:15:49,522 - INFO - Found 100 articles for Cisco
+2025-04-05 04:15:52,535 - INFO - Total articles found for CSCO (Cisco) : 128
+2025-04-05 04:15:52,546 - INFO - Scraping news for CSCO (Cisco) AI
+2025-04-05 04:15:53,705 - INFO - Found 10 articles for CSCO stock AI
+2025-04-05 04:15:59,108 - INFO - Found 29 articles for Cisco AI
+2025-04-05 04:16:02,119 - INFO - Total articles found for CSCO (Cisco) AI: 39
+2025-04-05 04:16:02,122 - INFO - Scraping news for ORCL (Oracle) 
+2025-04-05 04:16:04,446 - INFO - Found 26 articles for ORCL stock
+2025-04-05 04:16:14,542 - INFO - Found 100 articles for Oracle
+2025-04-05 04:16:17,545 - INFO - Total articles found for ORCL (Oracle) : 126
+2025-04-05 04:16:17,548 - INFO - Scraping news for ORCL (Oracle) AI
+2025-04-05 04:16:19,851 - INFO - Found 25 articles for ORCL stock AI
+2025-04-05 04:16:26,223 - INFO - Found 43 articles for Oracle AI
+2025-04-05 04:16:29,235 - INFO - Total articles found for ORCL (Oracle) AI: 68
+2025-04-05 04:16:29,241 - INFO - Scraping news for IBM (IBM) 
+2025-04-05 04:16:33,217 - INFO - Found 51 articles for IBM stock
+2025-04-05 04:16:43,161 - INFO - Found 100 articles for IBM
+2025-04-05 04:16:46,174 - INFO - Total articles found for IBM (IBM) : 151
+2025-04-05 04:16:46,178 - INFO - Scraping news for IBM (IBM) AI
+2025-04-05 04:16:48,562 - INFO - Found 28 articles for IBM stock AI
+2025-04-05 04:16:56,835 - INFO - Found 70 articles for IBM AI
+2025-04-05 04:16:59,846 - INFO - Total articles found for IBM (IBM) AI: 98
+2025-04-05 04:16:59,850 - INFO - Scraping news for CRM (Salesforce) 
+2025-04-05 04:17:02,330 - INFO - Found 29 articles for CRM stock
+2025-04-05 04:17:10,569 - INFO - Found 72 articles for Salesforce
+2025-04-05 04:17:13,580 - INFO - Total articles found for CRM (Salesforce) : 101
+2025-04-05 04:17:13,586 - INFO - Scraping news for CRM (Salesforce) AI
+2025-04-05 04:17:16,863 - INFO - Found 39 articles for CRM stock AI
+2025-04-05 04:17:22,999 - INFO - Found 38 articles for Salesforce AI
+2025-04-05 04:17:26,012 - INFO - Total articles found for CRM (Salesforce) AI: 77
+2025-04-05 04:17:26,026 - INFO - Scraping news for QCOM (Qualcomm) 
+2025-04-05 04:17:29,918 - INFO - Found 50 articles for QCOM stock
+2025-04-05 04:17:40,033 - INFO - Found 100 articles for Qualcomm
+2025-04-05 04:17:43,045 - INFO - Total articles found for QCOM (Qualcomm) : 150
+2025-04-05 04:17:43,050 - INFO - Scraping news for QCOM (Qualcomm) AI
+2025-04-05 04:17:46,111 - INFO - Found 39 articles for QCOM stock AI
+2025-04-05 04:17:54,742 - INFO - Found 78 articles for Qualcomm AI
+2025-04-05 04:17:57,762 - INFO - Total articles found for QCOM (Qualcomm) AI: 117
+2025-04-05 04:17:57,765 - INFO - Scraping news for AVGO (Broadcom) 
+2025-04-05 04:18:01,352 - INFO - Found 43 articles for AVGO stock
+2025-04-05 04:18:11,425 - INFO - Found 100 articles for Broadcom
+2025-04-05 04:18:14,437 - INFO - Total articles found for AVGO (Broadcom) : 143
+2025-04-05 04:18:14,440 - INFO - Scraping news for AVGO (Broadcom) AI
+2025-04-05 04:18:17,325 - INFO - Found 33 articles for AVGO stock AI
+2025-04-05 04:18:23,458 - INFO - Found 39 articles for Broadcom AI
+2025-04-05 04:18:26,470 - INFO - Total articles found for AVGO (Broadcom) AI: 72
+2025-04-05 04:18:26,472 - INFO - Scraping news for TXN (Texas Instruments) 
+2025-04-05 04:18:28,286 - INFO - Found 19 articles for TXN stock
+2025-04-05 04:18:33,993 - INFO - Found 32 articles for Texas Instruments
+2025-04-05 04:18:37,004 - INFO - Total articles found for TXN (Texas Instruments) : 51
+2025-04-05 04:18:37,005 - INFO - Scraping news for TXN (Texas Instruments) AI
+2025-04-05 04:18:38,249 - INFO - Found 10 articles for TXN stock AI
+2025-04-05 04:18:43,759 - INFO - Found 28 articles for Texas Instruments AI
+2025-04-05 04:18:46,771 - INFO - Total articles found for TXN (Texas Instruments) AI: 38
+2025-04-05 04:18:46,772 - INFO - Scraping news for AMD (AMD) 
+2025-04-05 04:18:53,443 - INFO - Found 89 articles for AMD stock
+2025-04-05 04:19:03,817 - INFO - Found 100 articles for AMD
+2025-04-05 04:19:06,829 - INFO - Total articles found for AMD (AMD) : 189
+2025-04-05 04:19:06,833 - INFO - Scraping news for AMD (AMD) AI
+2025-04-05 04:19:09,785 - INFO - Found 35 articles for AMD stock AI
+2025-04-05 04:19:19,928 - INFO - Found 100 articles for AMD AI
+2025-04-05 04:19:22,941 - INFO - Total articles found for AMD (AMD) AI: 135
+2025-04-05 04:19:22,945 - INFO - Scraping news for AMAT (Applied Materials) 
+2025-04-05 04:19:26,450 - INFO - Found 46 articles for AMAT stock
+2025-04-05 04:19:33,699 - INFO - Found 56 articles for Applied Materials
+2025-04-05 04:19:36,711 - INFO - Total articles found for AMAT (Applied Materials) : 102
+2025-04-05 04:19:36,715 - INFO - Scraping news for AMAT (Applied Materials) AI
+2025-04-05 04:19:37,679 - INFO - Found 6 articles for AMAT stock AI
+2025-04-05 04:19:42,704 - INFO - Found 21 articles for Applied Materials AI
+2025-04-05 04:19:45,707 - INFO - Total articles found for AMAT (Applied Materials) AI: 27
+2025-04-05 04:19:45,709 - INFO - Scraping news for MU (Micron Technology) 
+2025-04-05 04:19:48,604 - INFO - Found 35 articles for MU stock
+2025-04-05 04:19:58,567 - INFO - Found 96 articles for Micron Technology
+2025-04-05 04:20:01,578 - INFO - Total articles found for MU (Micron Technology) : 131
+2025-04-05 04:20:01,582 - INFO - Scraping news for MU (Micron Technology) AI
+2025-04-05 04:20:05,116 - INFO - Found 43 articles for MU stock AI
+2025-04-05 04:20:10,856 - INFO - Found 33 articles for Micron Technology AI
+2025-04-05 04:20:13,867 - INFO - Total articles found for MU (Micron Technology) AI: 76
+2025-04-05 04:20:13,870 - INFO - Scraping news for NET (Cloudflare) 
+2025-04-05 04:20:16,529 - INFO - Found 29 articles for NET stock
+2025-04-05 04:20:23,049 - INFO - Found 45 articles for Cloudflare
+2025-04-05 04:20:26,060 - INFO - Total articles found for NET (Cloudflare) : 74
+2025-04-05 04:20:26,065 - INFO - Scraping news for NET (Cloudflare) AI
+2025-04-05 04:20:30,291 - INFO - Found 53 articles for NET stock AI
+2025-04-05 04:20:36,150 - INFO - Found 35 articles for Cloudflare AI
+2025-04-05 04:20:39,162 - INFO - Total articles found for NET (Cloudflare) AI: 88
+2025-04-05 04:20:39,165 - INFO - Scraping news for NOW (ServiceNow) 
+2025-04-05 04:20:46,367 - INFO - Found 100 articles for NOW stock
+2025-04-05 04:20:56,534 - INFO - Found 100 articles for ServiceNow
+2025-04-05 04:20:59,549 - INFO - Total articles found for NOW (ServiceNow) : 200
+2025-04-05 04:20:59,553 - INFO - Scraping news for NOW (ServiceNow) AI
+2025-04-05 04:21:02,902 - INFO - Found 41 articles for NOW stock AI
+2025-04-05 04:21:09,265 - INFO - Found 42 articles for ServiceNow AI
+2025-04-05 04:21:12,273 - INFO - Total articles found for NOW (ServiceNow) AI: 83
+2025-04-05 04:21:12,276 - INFO - Scraping news for SNOW (Snowflake) 
+2025-04-05 04:21:16,341 - INFO - Found 52 articles for SNOW stock
+2025-04-05 04:21:26,841 - INFO - Found 100 articles for Snowflake
+2025-04-05 04:21:29,852 - INFO - Total articles found for SNOW (Snowflake) : 152
+2025-04-05 04:21:29,854 - INFO - Scraping news for SNOW (Snowflake) AI
+2025-04-05 04:21:33,008 - INFO - Found 37 articles for SNOW stock AI
+2025-04-05 04:21:38,284 - INFO - Found 25 articles for Snowflake AI
+2025-04-05 04:21:41,294 - INFO - Total articles found for SNOW (Snowflake) AI: 62
+2025-04-05 04:21:41,295 - INFO - Scraping news for DOCU (DocuSign) 
+2025-04-05 04:21:45,042 - INFO - Found 44 articles for DOCU stock
+2025-04-05 04:21:51,583 - INFO - Found 45 articles for DocuSign
+2025-04-05 04:21:54,595 - INFO - Total articles found for DOCU (DocuSign) : 89
+2025-04-05 04:21:54,599 - INFO - Scraping news for DOCU (DocuSign) AI
+2025-04-05 04:21:57,227 - INFO - Found 29 articles for DOCU stock AI
+2025-04-05 04:22:02,478 - INFO - Found 26 articles for DocuSign AI
+2025-04-05 04:22:05,489 - INFO - Total articles found for DOCU (DocuSign) AI: 55
+2025-04-05 04:22:05,491 - INFO - Scraping news for SHOP (Shopify) 
+2025-04-05 04:22:12,664 - INFO - Found 100 articles for SHOP stock
+2025-04-05 04:22:22,429 - INFO - Found 96 articles for Shopify
+2025-04-05 04:22:25,446 - INFO - Total articles found for SHOP (Shopify) : 196
+2025-04-05 04:22:25,449 - INFO - Scraping news for SHOP (Shopify) AI
+2025-04-05 04:22:29,770 - INFO - Found 53 articles for SHOP stock AI
+2025-04-05 04:22:35,504 - INFO - Found 34 articles for Shopify AI
+2025-04-05 04:22:38,515 - INFO - Total articles found for SHOP (Shopify) AI: 87
+2025-04-05 04:22:38,517 - INFO - Scraping news for UBER (Uber) 
+2025-04-05 04:22:41,576 - INFO - Found 37 articles for UBER stock
+2025-04-05 04:22:51,889 - INFO - Found 100 articles for Uber
+2025-04-05 04:22:54,901 - INFO - Total articles found for UBER (Uber) : 137
+2025-04-05 04:22:54,912 - INFO - Scraping news for UBER (Uber) AI
+2025-04-05 04:22:58,550 - INFO - Found 46 articles for UBER stock AI
+2025-04-05 04:23:03,738 - INFO - Found 26 articles for Uber AI
+2025-04-05 04:23:06,749 - INFO - Total articles found for UBER (Uber) AI: 72
+2025-04-05 04:23:06,751 - INFO - Scraping news for LYFT (Lyft) 
+2025-04-05 04:23:10,270 - INFO - Found 42 articles for LYFT stock
+2025-04-05 04:23:20,432 - INFO - Found 100 articles for Lyft
+2025-04-05 04:23:23,444 - INFO - Total articles found for LYFT (Lyft) : 142
+2025-04-05 04:23:23,448 - INFO - Scraping news for LYFT (Lyft) AI
+2025-04-05 04:23:25,231 - INFO - Found 17 articles for LYFT stock AI
+2025-04-05 04:23:29,375 - INFO - Found 10 articles for Lyft AI
+2025-04-05 04:23:32,387 - INFO - Total articles found for LYFT (Lyft) AI: 27
+2025-04-05 04:23:32,388 - INFO - Scraping news for SNAP (Snap) 
+2025-04-05 04:23:35,304 - INFO - Found 36 articles for SNAP stock
+2025-04-05 04:23:45,455 - INFO - Found 100 articles for Snap
+2025-04-05 04:23:48,466 - INFO - Total articles found for SNAP (Snap) : 136
+2025-04-05 04:23:48,470 - INFO - Scraping news for SNAP (Snap) AI
+2025-04-05 04:23:52,041 - INFO - Found 44 articles for SNAP stock AI
+2025-04-05 04:23:59,232 - INFO - Found 51 articles for Snap AI
+2025-04-05 04:24:02,244 - INFO - Total articles found for SNAP (Snap) AI: 95
+2025-04-05 04:24:02,250 - INFO - Scraping news for SQ (Square) 
+2025-04-05 04:24:06,127 - INFO - Found 47 articles for SQ stock
+2025-04-05 04:24:16,445 - INFO - Found 100 articles for Square
+2025-04-05 04:24:19,456 - INFO - Total articles found for SQ (Square) : 147
+2025-04-05 04:24:19,460 - INFO - Scraping news for SQ (Square) AI
+2025-04-05 04:24:21,638 - INFO - Found 21 articles for SQ stock AI
+2025-04-05 04:24:27,967 - INFO - Found 39 articles for Square AI
+2025-04-05 04:24:30,978 - INFO - Total articles found for SQ (Square) AI: 60
+2025-04-05 04:24:30,981 - INFO - Scraping news for DDOG (Datadog) 
+2025-04-05 04:24:33,382 - INFO - Found 26 articles for DDOG stock
+2025-04-05 04:24:41,780 - INFO - Found 72 articles for Datadog
+2025-04-05 04:24:44,791 - INFO - Total articles found for DDOG (Datadog) : 98
+2025-04-05 04:24:44,795 - INFO - Scraping news for DDOG (Datadog) AI
+2025-04-05 04:24:46,217 - INFO - Found 12 articles for DDOG stock AI
+2025-04-05 04:24:51,669 - INFO - Found 31 articles for Datadog AI
+2025-04-05 04:24:54,680 - INFO - Total articles found for DDOG (Datadog) AI: 43
+2025-04-05 04:24:54,682 - INFO - Total articles scraped across all companies: 16552
+2025-04-05 04:24:54,912 - INFO - Created news dataframe with 16552 articles
+2025-04-05 04:24:55,386 - INFO - Analysis complete. Files saved.
+2025-04-05 04:24:55,386 - INFO - 
+Summary Statistics:
+2025-04-05 04:24:55,386 - INFO - Total news articles: 16552
+2025-04-05 04:24:55,388 - INFO - Articles per sector: sector
+EV            3981
+Financial     5377
+Technology    7194
+Name: ticker, dtype: int64
+2025-04-05 04:24:55,388 - INFO - 
+Average Sentiment by Sector:
+2025-04-05 04:24:55,388 - INFO -             general_sentiment  ai_sentiment  combined_sentiment
+sector                                                         
+EV                  -0.867156     -0.853707           -0.860431
+Financial           -0.841025     -0.874202           -0.857613
+Technology          -0.814875     -0.829592           -0.822233
+2025-04-05 04:24:55,509 - INFO - 
+Portfolio Summary:
+2025-04-05 04:24:55,510 - INFO -    portfolio_id                 description  avg_ai_sentiment  avg_general_sentiment
+0             1  High Positive AI Sentiment         -0.744387              -0.786092
+1             2        Neutral AI Sentiment         -0.859256              -0.832505
+2             3   Negative/Low AI Sentiment         -0.950399              -0.900601

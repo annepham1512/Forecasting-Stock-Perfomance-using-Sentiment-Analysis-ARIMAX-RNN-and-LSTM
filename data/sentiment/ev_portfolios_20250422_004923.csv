@@ -1,0 +1,4 @@
+portfolio_id,portfolio_name,description,tickers,avg_ai_sentiment,avg_general_sentiment,avg_combined_sentiment
+1,Portfolio 1,High Positive AI Sentiment,"['HYLN', 'GNZUF', 'TSLA', 'MMTOF', 'GM', 'LCID', 'HYMTF', 'LI', 'F']",-0.7481371070587907,-0.8858531920983547,-0.8169951495785727
+2,Portfolio 2,Neutral AI Sentiment,"['RIVN', 'NIO', 'MBGYY', 'BYDDY', 'NSANY', 'BAMXF', 'TATAMOTORS.NS', 'XPEV', 'STLA']",-0.9275921782414829,-0.884377063420238,-0.9059846208308604
+3,Portfolio 3,Negative/Low AI Sentiment,"['KIMTF', 'VWAGY', 'RNLSY', 'POAHY', 'SAIC', 'GELYF', 'MAHMF', 'PSNY', 'GWLLY', 'NKLA']",-0.9883261446860026,-0.961375509646639,-0.9748508271663207

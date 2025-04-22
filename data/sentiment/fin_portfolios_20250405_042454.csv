@@ -1,4 +1,0 @@
-portfolio_id,portfolio_name,description,tickers,avg_ai_sentiment,avg_general_sentiment,avg_combined_sentiment
-1,Portfolio 1,High Positive AI Sentiment,"['TFC', 'MS', 'WFC', 'HSBC', 'FITB', 'GS', 'USB', 'NTRS', 'KEY', 'RY']",-0.7753808494928756,-0.7875185427271518,-0.7814496961100137
-2,Portfolio 2,Neutral AI Sentiment,"['C', 'BAC', 'CFG', 'STT', 'JPM', 'BK', 'AXP', 'FHN', 'TD', 'SCHW']",-0.8828714357893224,-0.8666137763240703,-0.8747426060566964
-3,Portfolio 3,Negative/Low AI Sentiment,"['SAN', 'COF', 'RF', 'ALLY', 'ZION', 'PNC', 'NBHC', 'HBAN', 'MTB', 'SYF']",-0.9643531720979288,-0.8689427409944537,-0.9166479565461912

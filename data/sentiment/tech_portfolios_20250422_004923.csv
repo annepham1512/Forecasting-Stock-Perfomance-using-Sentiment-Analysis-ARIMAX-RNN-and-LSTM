@@ -1,0 +1,4 @@
+portfolio_id,portfolio_name,description,tickers,avg_ai_sentiment,avg_general_sentiment,avg_combined_sentiment
+1,Portfolio 1,High Positive AI Sentiment,"['TSM', 'SNAP', 'NET', 'SHOP', 'CRM', 'AVGO', 'NVDA', 'NOW', 'INTC', 'HRB']",-0.7493471031286915,-0.7569342299610275,-0.7531406665448596
+2,Portfolio 2,Neutral AI Sentiment,"['AMZN', 'DOCU', 'AAPL', 'SNOW', 'DDOG', 'MSFT', 'IBM', 'TXN', 'META', 'LYFT']",-0.8360100838220973,-0.7942077010206146,-0.8151088924213559
+3,Portfolio 3,Negative/Low AI Sentiment,"['AMD', 'ORCL', 'CSCO', 'QCOM', 'MU', 'ADBE', 'UBER', 'GOOG', 'GOOGL', 'AMAT']",-0.8927966454805277,-0.8395591866793348,-0.8661779160799314

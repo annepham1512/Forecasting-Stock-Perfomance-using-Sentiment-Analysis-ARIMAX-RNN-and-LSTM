@@ -12,9 +12,11 @@ The financial markets are shaped by systematic factors and behavioral drivers li
 
 ## Objectives
 - Forecast stock returns using ARIMAX, RNN, and LSTM with sentiment inputs.
-- Compute general and AI-specific sentiment scores from Google News using FinBERT.
+- Compute general and AI-specific sentiment scores from Google News using FinBERT. After that, Seperate them into their own sectors : EV, Financial Bank, and Technology. They are then put into categorical terms : High Positive AI Sentiment, Neutral AI Sentiment, Negative/Low AI Sentiment.
 - Construct sentiment-based portfolios to compare performance.
-- Verify results with fundamental analysis (EPS, P/E, revenue growth).
+- Verify results with :
++ ARIMAX: Mean Absolute Error, Mean Squared Error, Root Mean Squared Error
++ Recurrent Neural Network (RNN) and Long Short-Term Memory (LSTM):  Mean Absolute Error, Mean Squared Error, Root Mean Squared Error.
 - Evaluate AI’s impact on returns, expecting stronger effects in EV and technology.
 
 ## Data

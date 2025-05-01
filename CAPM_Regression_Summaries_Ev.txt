@@ -1,0 +1,810 @@
+CAPM Regression Summary for AAPL:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   AAPL   R-squared:                       0.607
+Model:                            OLS   Adj. R-squared:                  0.607
+Method:                 Least Squares   F-statistic:                     2716.
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):               0.00
+Time:                        22:46:25   Log-Likelihood:                 5274.8
+No. Observations:                1759   AIC:                        -1.055e+04
+Df Residuals:                    1757   BIC:                        -1.053e+04
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0005      0.000      1.748      0.081   -6.15e-05       0.001
+^GSPC          1.2024      0.023     52.115      0.000       1.157       1.248
+==============================================================================
+Omnibus:                      234.268   Durbin-Watson:                   1.884
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             2076.710
+Skew:                           0.297   Prob(JB):                         0.00
+Kurtosis:                       8.290   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for MSFT:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   MSFT   R-squared:                       0.684
+Model:                            OLS   Adj. R-squared:                  0.684
+Method:                 Least Squares   F-statistic:                     3808.
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):               0.00
+Time:                        22:46:25   Log-Likelihood:                 5564.7
+No. Observations:                1759   AIC:                        -1.113e+04
+Df Residuals:                    1757   BIC:                        -1.111e+04
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0004      0.000      1.693      0.091   -6.56e-05       0.001
+^GSPC          1.2075      0.020     61.713      0.000       1.169       1.246
+==============================================================================
+Omnibus:                      202.559   Durbin-Watson:                   2.014
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             1771.101
+Skew:                           0.129   Prob(JB):                         0.00
+Kurtosis:                       7.909   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for GOOGL:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  GOOGL   R-squared:                       0.560
+Model:                            OLS   Adj. R-squared:                  0.559
+Method:                 Least Squares   F-statistic:                     2233.
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):          3.18e-315
+Time:                        22:46:25   Log-Likelihood:                 5159.5
+No. Observations:                1759   AIC:                        -1.032e+04
+Df Residuals:                    1757   BIC:                        -1.030e+04
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0002      0.000      0.668      0.504      -0.000       0.001
+^GSPC          1.1641      0.025     47.253      0.000       1.116       1.212
+==============================================================================
+Omnibus:                      272.750   Durbin-Watson:                   1.932
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             4398.049
+Skew:                           0.009   Prob(JB):                         0.00
+Kurtosis:                      10.746   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for GOOG:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   GOOG   R-squared:                       0.557
+Model:                            OLS   Adj. R-squared:                  0.557
+Method:                 Least Squares   F-statistic:                     2212.
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):          3.10e-313
+Time:                        22:46:25   Log-Likelihood:                 5157.7
+No. Observations:                1759   AIC:                        -1.031e+04
+Df Residuals:                    1757   BIC:                        -1.030e+04
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0002      0.000      0.702      0.483      -0.000       0.001
+^GSPC          1.1599      0.025     47.032      0.000       1.112       1.208
+==============================================================================
+Omnibus:                      285.714   Durbin-Watson:                   1.939
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             5068.153
+Skew:                          -0.046   Prob(JB):                         0.00
+Kurtosis:                      11.315   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for AMZN:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   AMZN   R-squared:                       0.438
+Model:                            OLS   Adj. R-squared:                  0.437
+Method:                 Least Squares   F-statistic:                     1368.
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):          5.63e-222
+Time:                        22:46:25   Log-Likelihood:                 4749.9
+No. Observations:                1759   AIC:                            -9496.
+Df Residuals:                    1757   BIC:                            -9485.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0002      0.000      0.604      0.546      -0.001       0.001
+^GSPC          1.1501      0.031     36.988      0.000       1.089       1.211
+==============================================================================
+Omnibus:                      297.068   Durbin-Watson:                   1.997
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             4172.285
+Skew:                           0.324   Prob(JB):                         0.00
+Kurtosis:                      10.517   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for META:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   META   R-squared:                       0.370
+Model:                            OLS   Adj. R-squared:                  0.370
+Method:                 Least Squares   F-statistic:                     1032.
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):          1.38e-178
+Time:                        22:46:25   Log-Likelihood:                 4281.5
+No. Observations:                1759   AIC:                            -8559.
+Df Residuals:                    1757   BIC:                            -8548.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const        9.23e-05      0.001      0.182      0.855      -0.001       0.001
+^GSPC          1.3040      0.041     32.132      0.000       1.224       1.384
+==============================================================================
+Omnibus:                     1150.206   Durbin-Watson:                   1.959
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           141290.260
+Skew:                          -2.138   Prob(JB):                         0.00
+Kurtosis:                      46.698   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for NVDA:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   NVDA   R-squared:                       0.481
+Model:                            OLS   Adj. R-squared:                  0.481
+Method:                 Least Squares   F-statistic:                     1631.
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):          7.97e-253
+Time:                        22:46:25   Log-Likelihood:                 4113.9
+No. Observations:                1759   AIC:                            -8224.
+Df Residuals:                    1757   BIC:                            -8213.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0011      0.001      1.953      0.051   -4.56e-06       0.002
+^GSPC          1.8029      0.045     40.387      0.000       1.715       1.890
+==============================================================================
+Omnibus:                      299.990   Durbin-Watson:                   2.053
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             5941.532
+Skew:                           0.054   Prob(JB):                         0.00
+Kurtosis:                      12.003   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for TSM:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                    TSM   R-squared:                       0.383
+Model:                            OLS   Adj. R-squared:                  0.383
+Method:                 Least Squares   F-statistic:                     1092.
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):          1.24e-186
+Time:                        22:46:25   Log-Likelihood:                 4630.8
+No. Observations:                1759   AIC:                            -9258.
+Df Residuals:                    1757   BIC:                            -9247.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0005      0.000      1.236      0.217      -0.000       0.001
+^GSPC          1.0995      0.033     33.043      0.000       1.034       1.165
+==============================================================================
+Omnibus:                      274.904   Durbin-Watson:                   2.055
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             1459.259
+Skew:                           0.623   Prob(JB):                         0.00
+Kurtosis:                       7.285   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for ADBE:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   ADBE   R-squared:                       0.486
+Model:                            OLS   Adj. R-squared:                  0.486
+Method:                 Least Squares   F-statistic:                     1660.
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):          4.48e-256
+Time:                        22:46:25   Log-Likelihood:                 4709.5
+No. Observations:                1759   AIC:                            -9415.
+Df Residuals:                    1757   BIC:                            -9404.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const      -5.522e-05      0.000     -0.139      0.889      -0.001       0.001
+^GSPC          1.2964      0.032     40.744      0.000       1.234       1.359
+==============================================================================
+Omnibus:                      786.076   Durbin-Watson:                   1.983
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            23014.278
+Skew:                          -1.485   Prob(JB):                         0.00
+Kurtosis:                      20.470   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for INTC:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   INTC   R-squared:                       0.390
+Model:                            OLS   Adj. R-squared:                  0.389
+Method:                 Least Squares   F-statistic:                     1121.
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):          1.44e-190
+Time:                        22:46:25   Log-Likelihood:                 4377.8
+No. Observations:                1759   AIC:                            -8752.
+Df Residuals:                    1757   BIC:                            -8741.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         -0.0010      0.000     -2.009      0.045      -0.002   -2.29e-05
+^GSPC          1.2866      0.038     33.487      0.000       1.211       1.362
+==============================================================================
+Omnibus:                     1099.620   Durbin-Watson:                   1.949
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            61129.324
+Skew:                          -2.220   Prob(JB):                         0.00
+Kurtosis:                      31.537   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for CSCO:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   CSCO   R-squared:                       0.499
+Model:                            OLS   Adj. R-squared:                  0.499
+Method:                 Least Squares   F-statistic:                     1753.
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):          2.85e-266
+Time:                        22:46:25   Log-Likelihood:                 5285.0
+No. Observations:                1759   AIC:                        -1.057e+04
+Df Residuals:                    1757   BIC:                        -1.056e+04
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const      -6.759e-05      0.000     -0.236      0.813      -0.001       0.000
+^GSPC          0.9603      0.023     41.864      0.000       0.915       1.005
+==============================================================================
+Omnibus:                      896.061   Durbin-Watson:                   2.009
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            52093.435
+Skew:                          -1.593   Prob(JB):                         0.00
+Kurtosis:                      29.469   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for ORCL:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   ORCL   R-squared:                       0.391
+Model:                            OLS   Adj. R-squared:                  0.391
+Method:                 Least Squares   F-statistic:                     1130.
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):          1.02e-191
+Time:                        22:46:25   Log-Likelihood:                 4915.2
+No. Observations:                1759   AIC:                            -9826.
+Df Residuals:                    1757   BIC:                            -9815.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0004      0.000      1.028      0.304      -0.000       0.001
+^GSPC          0.9516      0.028     33.616      0.000       0.896       1.007
+==============================================================================
+Omnibus:                      474.246   Durbin-Watson:                   2.085
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            37475.443
+Skew:                           0.154   Prob(JB):                         0.00
+Kurtosis:                      25.610   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for IBM:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                    IBM   R-squared:                       0.401
+Model:                            OLS   Adj. R-squared:                  0.400
+Method:                 Least Squares   F-statistic:                     1174.
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):          1.64e-197
+Time:                        22:46:25   Log-Likelihood:                 5205.3
+No. Observations:                1759   AIC:                        -1.041e+04
+Df Residuals:                    1757   BIC:                        -1.040e+04
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const        4.53e-05      0.000      0.151      0.880      -0.001       0.001
+^GSPC          0.8225      0.024     34.266      0.000       0.775       0.870
+==============================================================================
+Omnibus:                      526.109   Durbin-Watson:                   1.977
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            14132.011
+Skew:                          -0.804   Prob(JB):                         0.00
+Kurtosis:                      16.793   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for CRM:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                    CRM   R-squared:                       0.435
+Model:                            OLS   Adj. R-squared:                  0.435
+Method:                 Least Squares   F-statistic:                     1355.
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):          2.32e-220
+Time:                        22:46:26   Log-Likelihood:                 4598.7
+No. Observations:                1759   AIC:                            -9193.
+Df Residuals:                    1757   BIC:                            -9182.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0001      0.000      0.262      0.793      -0.001       0.001
+^GSPC          1.2474      0.034     36.809      0.000       1.181       1.314
+==============================================================================
+Omnibus:                      511.021   Durbin-Watson:                   1.961
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            58570.269
+Skew:                           0.106   Prob(JB):                         0.00
+Kurtosis:                      31.268   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for QCOM:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   QCOM   R-squared:                       0.444
+Model:                            OLS   Adj. R-squared:                  0.443
+Method:                 Least Squares   F-statistic:                     1401.
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):          6.04e-226
+Time:                        22:46:26   Log-Likelihood:                 4512.8
+No. Observations:                1759   AIC:                            -9022.
+Df Residuals:                    1757   BIC:                            -9011.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const       2.574e-06      0.000      0.006      0.995      -0.001       0.001
+^GSPC          1.3317      0.036     37.427      0.000       1.262       1.402
+==============================================================================
+Omnibus:                      597.369   Durbin-Watson:                   2.001
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            18355.473
+Skew:                           0.957   Prob(JB):                         0.00
+Kurtosis:                      18.709   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for AVGO:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   AVGO   R-squared:                       0.474
+Model:                            OLS   Adj. R-squared:                  0.473
+Method:                 Least Squares   F-statistic:                     1581.
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):          3.75e-247
+Time:                        22:46:26   Log-Likelihood:                 4571.9
+No. Observations:                1759   AIC:                            -9140.
+Df Residuals:                    1757   BIC:                            -9129.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0008      0.000      1.760      0.079   -8.66e-05       0.002
+^GSPC          1.3681      0.034     39.764      0.000       1.301       1.436
+==============================================================================
+Omnibus:                      713.915   Durbin-Watson:                   1.912
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            32989.062
+Skew:                           1.153   Prob(JB):                         0.00
+Kurtosis:                      24.090   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for TXN:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                    TXN   R-squared:                       0.575
+Model:                            OLS   Adj. R-squared:                  0.575
+Method:                 Least Squares   F-statistic:                     2378.
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):               0.00
+Time:                        22:46:26   Log-Likelihood:                 5199.8
+No. Observations:                1759   AIC:                        -1.040e+04
+Df Residuals:                    1757   BIC:                        -1.038e+04
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const      -8.627e-05      0.000     -0.287      0.774      -0.001       0.001
+^GSPC          1.1741      0.024     48.763      0.000       1.127       1.221
+==============================================================================
+Omnibus:                      231.465   Durbin-Watson:                   2.122
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             1918.364
+Skew:                          -0.319   Prob(JB):                         0.00
+Kurtosis:                       8.076   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for AMD:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                    AMD   R-squared:                       0.361
+Model:                            OLS   Adj. R-squared:                  0.361
+Method:                 Least Squares   F-statistic:                     992.9
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):          3.88e-173
+Time:                        22:46:26   Log-Likelihood:                 3842.6
+No. Observations:                1759   AIC:                            -7681.
+Df Residuals:                    1757   BIC:                            -7670.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0006      0.001      0.983      0.326      -0.001       0.002
+^GSPC          1.6412      0.052     31.511      0.000       1.539       1.743
+==============================================================================
+Omnibus:                      232.931   Durbin-Watson:                   2.077
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             1692.357
+Skew:                           0.383   Prob(JB):                         0.00
+Kurtosis:                       7.744   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for AMAT:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   AMAT   R-squared:                       0.533
+Model:                            OLS   Adj. R-squared:                  0.533
+Method:                 Least Squares   F-statistic:                     2004.
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):          1.17e-292
+Time:                        22:46:26   Log-Likelihood:                 4456.9
+No. Observations:                1759   AIC:                            -8910.
+Df Residuals:                    1757   BIC:                            -8899.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const      -4.677e-05      0.000     -0.102      0.919      -0.001       0.001
+^GSPC          1.6442      0.037     44.763      0.000       1.572       1.716
+==============================================================================
+Omnibus:                      129.681   Durbin-Watson:                   2.144
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              664.238
+Skew:                          -0.029   Prob(JB):                    5.79e-145
+Kurtosis:                       6.010   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for MU:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                     MU   R-squared:                       0.409
+Model:                            OLS   Adj. R-squared:                  0.409
+Method:                 Least Squares   F-statistic:                     1218.
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):          4.06e-203
+Time:                        22:46:26   Log-Likelihood:                 4155.9
+No. Observations:                1759   AIC:                            -8308.
+Df Residuals:                    1757   BIC:                            -8297.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         -0.0003      0.001     -0.525      0.600      -0.001       0.001
+^GSPC          1.5209      0.044     34.893      0.000       1.435       1.606
+==============================================================================
+Omnibus:                      191.984   Durbin-Watson:                   2.011
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             1635.475
+Skew:                           0.026   Prob(JB):                         0.00
+Kurtosis:                       7.724   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for NET:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                    NET   R-squared:                       0.198
+Model:                            OLS   Adj. R-squared:                  0.197
+Method:                 Least Squares   F-statistic:                     327.7
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):           1.20e-65
+Time:                        22:46:26   Log-Likelihood:                 2427.9
+No. Observations:                1332   AIC:                            -4852.
+Df Residuals:                    1330   BIC:                            -4841.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0006      0.001      0.565      0.572      -0.001       0.003
+^GSPC          1.4724      0.081     18.102      0.000       1.313       1.632
+==============================================================================
+Omnibus:                      160.442   Durbin-Watson:                   1.940
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             1479.177
+Skew:                          -0.115   Prob(JB):                         0.00
+Kurtosis:                       8.157   Cond. No.                         75.9
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for NOW:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                    NOW   R-squared:                       0.415
+Model:                            OLS   Adj. R-squared:                  0.414
+Method:                 Least Squares   F-statistic:                     1245.
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):          1.39e-206
+Time:                        22:46:26   Log-Likelihood:                 4409.8
+No. Observations:                1759   AIC:                            -8816.
+Df Residuals:                    1757   BIC:                            -8805.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0006      0.000      1.266      0.206      -0.000       0.002
+^GSPC          1.3310      0.038     35.279      0.000       1.257       1.405
+==============================================================================
+Omnibus:                      246.766   Durbin-Watson:                   2.065
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             3151.673
+Skew:                           0.093   Prob(JB):                         0.00
+Kurtosis:                       9.555   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for SNOW:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   SNOW   R-squared:                       0.245
+Model:                            OLS   Adj. R-squared:                  0.244
+Method:                 Least Squares   F-statistic:                     348.9
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):           1.18e-67
+Time:                        22:46:26   Log-Likelihood:                 2108.1
+No. Observations:                1078   AIC:                            -4212.
+Df Residuals:                    1076   BIC:                            -4202.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         -0.0014      0.001     -1.363      0.173      -0.003       0.001
+^GSPC          1.8712      0.100     18.678      0.000       1.675       2.068
+==============================================================================
+Omnibus:                      179.785   Durbin-Watson:                   1.985
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             3048.948
+Skew:                           0.096   Prob(JB):                         0.00
+Kurtosis:                      11.237   Cond. No.                         96.0
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for DOCU:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   DOCU   R-squared:                       0.184
+Model:                            OLS   Adj. R-squared:                  0.183
+Method:                 Least Squares   F-statistic:                     377.0
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):           6.59e-76
+Time:                        22:46:26   Log-Likelihood:                 3299.3
+No. Observations:                1679   AIC:                            -6595.
+Df Residuals:                    1677   BIC:                            -6584.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         -0.0001      0.001     -0.134      0.894      -0.002       0.002
+^GSPC          1.2875      0.066     19.416      0.000       1.157       1.418
+==============================================================================
+Omnibus:                     1184.549   Durbin-Watson:                   2.000
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           140268.448
+Skew:                          -2.438   Prob(JB):                         0.00
+Kurtosis:                      47.511   Cond. No.                         80.1
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for SHOP:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   SHOP   R-squared:                       0.286
+Model:                            OLS   Adj. R-squared:                  0.286
+Method:                 Least Squares   F-statistic:                     705.3
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):          6.06e-131
+Time:                        22:46:26   Log-Likelihood:                 3515.8
+No. Observations:                1759   AIC:                            -7028.
+Df Residuals:                    1757   BIC:                            -7017.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0006      0.001      0.732      0.464      -0.001       0.002
+^GSPC          1.6656      0.063     26.558      0.000       1.543       1.789
+==============================================================================
+Omnibus:                      241.907   Durbin-Watson:                   2.002
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             3009.638
+Skew:                           0.071   Prob(JB):                         0.00
+Kurtosis:                       9.407   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for UBER:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   UBER   R-squared:                       0.264
+Model:                            OLS   Adj. R-squared:                  0.264
+Method:                 Least Squares   F-statistic:                     508.5
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):           1.83e-96
+Time:                        22:46:26   Log-Likelihood:                 3031.6
+No. Observations:                1419   AIC:                            -6059.
+Df Residuals:                    1417   BIC:                            -6049.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         -0.0004      0.001     -0.526      0.599      -0.002       0.001
+^GSPC          1.3183      0.058     22.550      0.000       1.204       1.433
+==============================================================================
+Omnibus:                      509.691   Durbin-Watson:                   2.041
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            12757.231
+Skew:                           1.097   Prob(JB):                         0.00
+Kurtosis:                      17.524   Cond. No.                         77.0
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for LYFT:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   LYFT   R-squared:                       0.192
+Model:                            OLS   Adj. R-squared:                  0.191
+Method:                 Least Squares   F-statistic:                     342.7
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):           7.86e-69
+Time:                        22:46:26   Log-Likelihood:                 2587.6
+No. Observations:                1448   AIC:                            -5171.
+Df Residuals:                    1446   BIC:                            -5161.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         -0.0020      0.001     -1.889      0.059      -0.004    7.76e-05
+^GSPC          1.5322      0.083     18.512      0.000       1.370       1.695
+==============================================================================
+Omnibus:                      651.724   Durbin-Watson:                   1.980
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            32659.051
+Skew:                          -1.327   Prob(JB):                         0.00
+Kurtosis:                      26.114   Cond. No.                         77.7
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for SNAP:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   SNAP   R-squared:                       0.145
+Model:                            OLS   Adj. R-squared:                  0.145
+Method:                 Least Squares   F-statistic:                     298.6
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):           6.59e-62
+Time:                        22:46:26   Log-Likelihood:                 2985.0
+No. Observations:                1759   AIC:                            -5966.
+Df Residuals:                    1757   BIC:                            -5955.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         -0.0008      0.001     -0.789      0.430      -0.003       0.001
+^GSPC          1.4654      0.085     17.279      0.000       1.299       1.632
+==============================================================================
+Omnibus:                     1015.736   Durbin-Watson:                   2.074
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           139262.781
+Skew:                          -1.697   Prob(JB):                         0.00
+Kurtosis:                      46.458   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for HRB:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                    HRB   R-squared:                       0.232
+Model:                            OLS   Adj. R-squared:                  0.232
+Method:                 Least Squares   F-statistic:                     532.0
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):          4.83e-103
+Time:                        22:46:26   Log-Likelihood:                 4376.4
+No. Observations:                1759   AIC:                            -8749.
+Df Residuals:                    1757   BIC:                            -8738.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0001      0.000      0.295      0.768      -0.001       0.001
+^GSPC          0.8868      0.038     23.064      0.000       0.811       0.962
+==============================================================================
+Omnibus:                      395.498   Durbin-Watson:                   2.047
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            17110.950
+Skew:                          -0.020   Prob(JB):                         0.00
+Kurtosis:                      18.279   Cond. No.                         80.2
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------
+CAPM Regression Summary for DDOG:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   DDOG   R-squared:                       0.217
+Model:                            OLS   Adj. R-squared:                  0.216
+Method:                 Least Squares   F-statistic:                     366.8
+Date:                Mon, 28 Apr 2025   Prob (F-statistic):           2.27e-72
+Time:                        22:46:26   Log-Likelihood:                 2637.3
+No. Observations:                1328   AIC:                            -5271.
+Df Residuals:                    1326   BIC:                            -5260.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0003      0.001      0.373      0.709      -0.001       0.002
+^GSPC          1.3232      0.069     19.151      0.000       1.188       1.459
+==============================================================================
+Omnibus:                      248.306   Durbin-Watson:                   1.994
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             2453.886
+Skew:                           0.559   Prob(JB):                         0.00
+Kurtosis:                       9.565   Cond. No.                         75.8
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+--------------------------------------------------------------------------------

@@ -1,0 +1,34 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.417
+Model:                            OLS   Adj. R-squared:                  0.416
+Method:                 Least Squares   F-statistic:                     418.5
+Date:                Tue, 29 Apr 2025   Prob (F-statistic):          4.67e-205
+Time:                        21:25:05   Log-Likelihood:                 4467.1
+No. Observations:                1759   AIC:                            -8926.
+Df Residuals:                    1755   BIC:                            -8904.
+Df Model:                           3                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         -0.0004      0.000     -0.897      0.370      -0.001       0.000
+Mkt-RF       121.4773      3.678     33.030      0.000     114.264     128.691
+SMB           16.6467      6.537      2.546      0.011       3.825      29.468
+HML           47.3510      4.492     10.541      0.000      38.541      56.161
+==============================================================================
+Omnibus:                      345.879   Durbin-Watson:                   1.942
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             3285.243
+Skew:                          -0.636   Prob(JB):                         0.00
+Kurtosis:                       9.573   Cond. No.                     1.45e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.45e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+Verification Metrics:
+Mean Absolute Error (MAE): 0.013144
+Mean Squared Error (MSE): 0.000364
+Root Mean Squared Error (RMSE): 0.019091
